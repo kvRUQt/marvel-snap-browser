@@ -1,0 +1,19 @@
+img {
+  cursor: pointer;
+  width: 300px;
+  height: auto;
+}
+
+.browser {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+}
+
+.card {
+  display: grid;
+  grid-template-columns: 1;
+}
+
+span {
+  font-size: 10px;
+}
